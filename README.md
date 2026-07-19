@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
