@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -91,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
 | ------- |
