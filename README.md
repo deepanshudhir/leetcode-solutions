@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
