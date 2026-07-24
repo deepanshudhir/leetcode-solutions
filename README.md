@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0445-add-two-numbers-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0198-house-robber) |
+| [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
