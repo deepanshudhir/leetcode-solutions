@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0377-combination-sum-iv) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0343-integer-break) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1260-shift-2d-grid) |
