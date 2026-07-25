@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
