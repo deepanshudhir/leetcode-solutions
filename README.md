@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0279-perfect-squares](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0198-house-robber) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
