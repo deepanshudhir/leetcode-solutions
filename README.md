@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3163-string-compression-iii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
