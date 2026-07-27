@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
