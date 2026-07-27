@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3163-string-compression-iii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Matrix
 |  |
 | ------- |
