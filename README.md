@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
