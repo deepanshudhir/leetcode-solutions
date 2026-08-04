@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0120-triangle) |
