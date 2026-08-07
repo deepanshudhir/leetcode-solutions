@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
