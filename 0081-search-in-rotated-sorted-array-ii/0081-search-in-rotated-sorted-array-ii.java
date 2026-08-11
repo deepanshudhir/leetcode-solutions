@@ -9,9 +9,8 @@ class Solution {
             if (nums[l] == nums[mid] && nums[mid] == nums[r]) {
                 l++;
                 r--;
-                continue;
             }
-            if(nums[mid]>=nums[l]){
+            else if(nums[mid]>=nums[l]){
                 if(nums[l]<=target && nums[mid]>target){
                     r=mid-1;
                 }else{
