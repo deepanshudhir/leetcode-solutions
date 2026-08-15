@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Combinatorics
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -337,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
