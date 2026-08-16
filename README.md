@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0994-rotting-oranges) |
