@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0561-array-partition) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -380,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
