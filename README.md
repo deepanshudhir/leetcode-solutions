@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Array
