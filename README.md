@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
