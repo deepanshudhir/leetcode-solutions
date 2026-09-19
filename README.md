@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -169,11 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0143-reorder-list) |
