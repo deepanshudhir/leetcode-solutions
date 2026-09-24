@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3163-string-compression-iii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -490,14 +491,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -518,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
