@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+| [1668-maximum-repeating-substring](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3163-string-compression-iii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+| [1668-maximum-repeating-substring](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
