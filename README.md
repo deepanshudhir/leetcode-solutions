@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
