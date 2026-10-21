@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
