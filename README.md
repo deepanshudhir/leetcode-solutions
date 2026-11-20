@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Combinatorics
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1020-number-of-enclaves](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/deepanshudhir/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/deepanshudhir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
