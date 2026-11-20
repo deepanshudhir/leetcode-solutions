@@ -1,16 +1,16 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
+        boolean[][] vis = new boolean[m][n];
         Queue<int[]> q = new LinkedList<>();
-        boolean[][] vis = new boolean[n][m];
         int fresh=0;
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(grid[i][j]==1) fresh++;
                 else if(grid[i][j]==2){
-                    q.offer(new int[]{i,j,0});
+                    q.add(new int[]{i,j,0});
                     vis[i][j] = true;
                 }
             }
@@ -18,20 +18,23 @@ class Solution {
         int ans=0;
         int[] dr = {-1,0,1,0};
         int[] dc = {0,1,0,-1};
+
         while(!q.isEmpty()){
-            int[] curr = q.poll();
-            int r = curr[0];
-            int c = curr[1];
-            int time = curr[2];
+            int[] cur = q.poll();
 
-            ans = Math.max(time, ans);
+            int r = cur[0];
+            int c = cur[1];
+            int time = cur[2];
 
-            for(int k=0;k<4;k++){
-                int nr = r+dr[k];
-                int nc = c+dc[k];
-                if(nr>=0 && nr<n && nc>=0 && nc<m && !vis[nr][nc] && grid[nr][nc]==1){
+            ans = Math.max(time,ans);
+
+            for(int i=0;i<4;i++){
+                int nr = r+dr[i];
+                int nc = c+dc[i];
+
+                if(nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc]==1 && !vis[nr][nc]){
                     vis[nr][nc] = true;
-                    q.offer(new int[]{nr,nc,time+1});
+                    q.add(new int[]{nr,nc,time+1});
                     fresh--;
                 }
             }
